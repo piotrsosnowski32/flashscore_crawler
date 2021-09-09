@@ -4,8 +4,6 @@ import time
 import codecs
 from telegram_bot import send_message
 from telegram_bot import today_matches
-from bs4 import BeautifulSoup as BS
-from openpyxl import workbook
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
